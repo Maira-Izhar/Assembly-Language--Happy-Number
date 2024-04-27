@@ -6,4 +6,4 @@ Repeat the process on the replaced number until the number either equals 1 withi
 iterations of the process. The number for which this process ends in 1 within 256 iterations is
 called a happy number, otherwise it is called an unhappy number.
 # Compiler
-This code is built and tested on Visual Studio 2022.
+This code is built and tested on DOSBox.
